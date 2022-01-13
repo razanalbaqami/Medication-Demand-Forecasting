@@ -38,8 +38,7 @@ Hospital Medication Demand Forecasting
 
 # Blog 
 
-<a href="https://sdacpteam.blogspot.com/2021/07/the-social-development-bank-was.html
-" target="_blank">Blog</a>
+<a href="https://intheloopteam.blogspot.com/2022/01/hospital-mediaction-demand-forecasting.html" target="_blank">Blog</a>
 
 # Authors
 
