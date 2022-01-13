@@ -4,7 +4,7 @@
 
 # Data Governance bootcamp capstone project 
 
-![alt text](https://sda.edu.sa/bc/img/sda_logo.png)
+![alt text](https://www.google.com/urlsa=i&url=https%3A%2F%2Fsda.edu.sa%2Flogin&psig=AOvVaw1bgRaNz4EnRXy1Dw_rHNSl&ust=1642135969486000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDjqqv3rfUCFQAAAAAdAAAAABAD)
 
 # Project Assign by
 
