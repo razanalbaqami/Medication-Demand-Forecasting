@@ -37,9 +37,6 @@ Hospital Medication Demand Forecasting
 <a href="https://public.tableau.com/views/HospitalDemandForecasting/Forecasting?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">Hospital Demand Forecasting 2019 - 2021</a>
 
 
-# Blog 
-
-<a href="https://intheloopteam.blogspot.com/2022/01/hospital-mediaction-demand-forecasting.html" target="_blank">Here</a>
 
 # Authors
 
